@@ -1,16 +1,18 @@
-# buzz_app
+>[!NOTE]
+>Proyecto en desarrollo. Descarga no disponible.
 
-An app for use Buzz! controllers.
+# Buzz App
 
-## Getting Started
+![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android) ![Apple](https://img.shields.io/badge/-IOS-333333?style=flat&logo=apple)
 
-This project is a starting point for a Flutter application.
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter) ![Firebase](https://img.shields.io/badge/-Firebase-DD2C00?style=flat&logo=firebase) ![Material](https://img.shields.io/badge/-Material_3-02569B?style=flat&logo=MaterialDesign)
 
-A few resources to get you started if this is your first Flutter project:
+**BuzzApp** te permite utilizar los mandos del conocido juego Buzz! para crear tus propios concursos.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🌟 Características
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Compatible con los mandos de Buzz!:** Conecta todos los mandos que necesites y ¡A jugar!.
+- **Presentación en tu TV:** Observa datos de la partida en tiempo real en tu televisor.
+- **Equipos configurables:** Crea todos los equipos que quieras y configuralos como tu quieras.
+
+Hecho con ❤️ por Manuel Acuña
