@@ -13,6 +13,12 @@
 
 - **Compatible con los mandos de Buzz!:** Conecta todos los mandos que necesites y ¡A jugar!.
 - **Presentación en tu TV:** Observa datos de la partida en tiempo real en tu televisor.
+- **Diferentes modos de juego:** Se adaptan a lo que necesites.
 - **Equipos configurables:** Crea todos los equipos que quieras y configuralos como tu quieras.
 
+## 🖼️ Imagenes
+
+![Screenshot_2025-09-08-04-00-14-392_com manuelacbl buzz_app](https://github.com/user-attachments/assets/d9a32ab1-5a85-407d-b680-617d257357a8)
+
 Hecho con ❤️ por Manuel Acuña
+
